@@ -20,7 +20,7 @@ setup(
 name='mlproject',
 version='0.0.1',
 author='Ahana',
-author_email='ahanaacharya20@gmail.com',
+author_email='l.10.ahanaacharya@gmail.com',
 packages=find_packages(),
 install_requires=get_requirements('requirements.txt')
 
